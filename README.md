@@ -14,11 +14,8 @@ Click a name below to view their profile:
 - [ADAMU MUHAMMAD MUHAMMAD](./interns/AdamsGeeky.md)
   
 # Interners
-- [Contributor](./interns/Bilalgarko.md)
+- [Aiman Nurudden](./interns/aimannurudden.md)
 - [BILAL GARKO IDRIS](./interns/Bilalgarko.md)
-
-
----
 
 ## 🚀 How to Add Your Profile
 
