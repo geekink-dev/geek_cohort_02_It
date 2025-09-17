@@ -14,9 +14,8 @@ Click a name below to view their profile:
 - [ADAMU MUHAMMAD MUHAMMAD](./interns/AdamsGeeky.md)
   
 # Interners
-- [Contributor](./interns/Bilalgarko.md)
-- [BILAL GARKO IDRIS](./interns/Bilalgarko.md)
-
+- [student](./interns/mujaheed6587.md)
+- [mujaheed abdulkadir](./interns/mujaheed6587.md)
 
 ---
 
