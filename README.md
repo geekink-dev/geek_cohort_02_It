@@ -14,7 +14,7 @@ Click a name below to view their profile:
 - [ADAMU MUHAMMAD MUHAMMAD](./interns/AdamsGeeky.md)
   
 # Interners
-- []()
+- [Aiman Nurudden](./interns/aimannurudden.md)
 - []()
 
 ---
