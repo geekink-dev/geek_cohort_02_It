@@ -50,12 +50,58 @@ Click a name below to view their profile:
 
 
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Interners
+
 - [contributor](./intens/Danfusami01.md)
 - [ADAMU ABUBAKAR FUSAMI](./intens/Danfusami01.md)
 
----
+- [Aiman Nurudden](./interns/aimannurudden.md)
+- [BILAL GARKO IDRIS](./interns/Bilalgarko.md)
 
 ## 🚀 How to Add Your Profile
 
