@@ -15,9 +15,7 @@ Click a name below to view their profile:
   
 # Interners
 - [Aiman Nurudden](./interns/aimannurudden.md)
-- []()
-
----
+- [BILAL GARKO IDRIS](./interns/Bilalgarko.md)
 
 ## 🚀 How to Add Your Profile
 
