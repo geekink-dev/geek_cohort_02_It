@@ -17,7 +17,7 @@ Click a name below to view their profile:
 
 - [Aiman Nurudden](./interns/aimannurudden.md)
 - [BILAL GARKO IDRIS](./interns/Bilalgarko.md)
-- [Mujaheed abdulkadir](./interns/mujaheed6587.md)
+- [Mujaheed abdulkadir](./interns/Mujaheed6587.md)
 - [student](./interns/mujaheed6587.md)
 - [BILAL GARKO IDRIS](./interns/garko.md)
 -  [contributor](./intens/Danfusami01.md)
