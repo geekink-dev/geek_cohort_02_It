@@ -1,0 +1,15 @@
+### this is code 
+```bash
+sudo apt install
+```
+
+#### python
+```py
+print("welcome")
+```
+#### C
+
+```c
+printf("welcome")
+```
+```
