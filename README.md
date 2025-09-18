@@ -7,17 +7,21 @@ This is where interns and collaborators **showcase their profiles, GitHub accoun
 
 ## 🌍 Intern Profiles
 
-Each intern has a profile file in the [`/interns`](./interns) folder.  
+Each intern has a profile file in the [`A.FARI`](./interns/ALIYU2024CMPTR.md) folder.  
 Click a name below to view their profile:  
 
 - [Mentor](./interns/AdamsGeeky.md)  
 - [ADAMU MUHAMMAD MUHAMMAD](./interns/AdamsGeeky.md)
-  
+
 # Interners
-- [mujaheed abdulkadir](./interns/mujaheed6587.md)
+
 - [Aiman Nurudden](./interns/aimannurudden.md)
 - [BILAL GARKO IDRIS](./interns/Bilalgarko.md)
+- [mujaheed abdulkadir](./interns/mujaheed6587.md)
 - [student](./interns/mujaheed6587.md)
+- [BILAL GARKO IDRIS](./interns/garko.md)
+-  [contributor](./intens/Danfusami01.md)
+- [ADAMU ABUBAKAR FUSAMI](./intens/Danfusami01.md)
 
 ## 🚀 How to Add Your Profile
 
